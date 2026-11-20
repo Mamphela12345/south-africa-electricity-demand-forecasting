@@ -1,0 +1,12 @@
+# Data manipulation
+pandas
+numpy
+#Data visualization
+matplotlib
+#API intergration
+requests
+# Machine learning
+scikit-learn
+xgboost
+# South African public holidays
+holidays

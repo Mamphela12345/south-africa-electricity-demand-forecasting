@@ -1,0 +1,18 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Raw datasets - keep locally
+data/raw/
+
+# Processed datasets - keep the seven-day forecast
+data/processed/*
+!data/processed/seven_day_demand_forecast.csv
